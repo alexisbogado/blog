@@ -1,0 +1,11 @@
+# @author Alexis Bogado
+# @package blog
+# @version 1.0.0
+
+# Site configuration
+site.name=Blog
+site.url=http://localhost
+site.lang=es
+
+# API configuration
+api.key=
